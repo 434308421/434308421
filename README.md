@@ -65,9 +65,9 @@
 ## 📫 联系方式
 
 <p>
-  <a href="mailto:a434308421@163.com">
-    <img src="https://img.shields.io/badge/Email-a434308421%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:a434308421@163.com">
+  <img src="https://img.shields.io/static/v1?label=Email&message=a434308421%40163.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/434308421">
     <img src="https://img.shields.io/badge/GitHub-434308421-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
