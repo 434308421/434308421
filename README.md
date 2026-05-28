@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=434308421&label=主页访问量&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/434308421?label=关注者&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=434308421&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/434308421?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=social" />
 </p>
 
 ---
@@ -29,8 +29,8 @@
 
 | 项目 | 结果导向描述 | 技术栈 |
 |---|---|---|
-| [自动化运维脚本集](https://github.com/434308421/resume.git) | 将重复性运维流程脚本化，减少手工操作时间并提升执行一致性 | Python |
-| [数据清洗与分析工具](https://github.com/434308421/resume.git) | 面向业务数据提供批量清洗、校验与统计，提升数据处理效率 | Python |
+| [自动化运维脚本集](https://github.com/434308421/resume) | 将重复性运维流程脚本化，减少手工操作时间并提升执行一致性 | Python |
+| [数据清洗与分析工具](https://github.com/434308421/resume) | 面向业务数据提供批量清洗、校验与统计，提升数据处理效率 | Python |
 
 ---
 
