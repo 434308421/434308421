@@ -62,8 +62,5 @@
 
 ## 📫 联系方式
 
-- 邮箱：<a href="mailto:a434308421@163.com">a434308421@163.com</a>  |  `a434308421@163.com`
-- GitHub：<a href="https://github.com/434308421">github.com/434308421</a>  |  `https://github.com/434308421`
-- 城市：苏州 / 可远程
-
-<!-- 说明：GitHub README 不支持 JS 一键复制按钮，右侧代码文本可手动复制 -->
+- 邮箱：<a href="mailto:a434308421@163.com">a434308421@163.com</a>
+- GitHub：<a href="https://github.com/434308421">github.com/434308421</a>
