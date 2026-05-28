@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=434308421&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/434308421?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=434308421&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/434308421?label=Followers&style=social" />
 </p>
 
 ---
