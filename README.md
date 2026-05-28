@@ -41,28 +41,19 @@
 
 ---
 
-## 🏅 Honors & 📜 Certificates
+## 🏅 荣誉
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 🏅 荣誉
 - 挑战杯三创赛三等奖（2022）
 - C 语言校内赛一等奖（2020）
 - 国家励志奖学金（2018 - 2019）
 
-  </td>
-  <td valign="top" width="50%">
+---
 
-### 📜 证书
+## 📜 证书
+
 - 大学英语四级（CET-4）
 - （可补充）计算机相关证书
 - （可补充）云/AI 相关证书
-
-  </td>
-  </tr>
-</table>
 
 ---
 
@@ -71,4 +62,4 @@
 - Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  |  `your.email@example.com`
 - GitHub: <a href="https://github.com/434308421">github.com/434308421</a>  |  `https://github.com/434308421`
 
-<!-- 说明：右侧 code 块用于方便手动复制；GitHub README 不支持 JS 一键复制按钮 -->
+<!-- 说明：GitHub README 不支持 JS 一键复制按钮，右侧 code 文本可手动复制 -->
