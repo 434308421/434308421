@@ -32,9 +32,6 @@
 | [自动化运维脚本集](https://github.com/434308421/REPO_1) | 将重复性运维流程脚本化，减少手工操作时间并提升执行一致性 | Python |
 | [数据清洗与分析工具](https://github.com/434308421/REPO_2) | 面向业务数据提供批量清洗、校验与统计，提升数据处理效率 | Python |
 
-> 把 `REPO_1`、`REPO_2` 替换成你的真实仓库名。  
-> 建议每个项目 README 增加：功能、输入输出示例、运行方式、效果截图。
-
 ---
 
 ## 📌 Now
@@ -54,6 +51,6 @@
 
 ## 📫 Contact
 
-- Email：`your.email@example.com`
+- Email：`a434308421@163.com`
 - GitHub：[github.com/434308421](https://github.com/434308421)
 - 城市：苏州 / 可远程
